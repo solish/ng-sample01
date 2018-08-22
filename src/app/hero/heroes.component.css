@@ -1,4 +1,7 @@
 /* HeroesComponent's private CSS styles */
+h2 {
+  color: blueviolet;
+}
 .selected {
   background-color: #cfd8dc !important;
   color: white;
